@@ -33,6 +33,6 @@ If you have any ideas to make it more interesting, please submit a pull request 
 
 ### [MIT](LICENSE)
 
-> Github [@fajarghifar](https://github.com/AnandaSheva) &nbsp;&middot;&nbsp;
-> Instagram [@fajarghifar](https://instagram.com/shevaananda_) &nbsp;&middot;&nbsp;
-> Linkedin [@fajarghifar](https://www.linkedin.com/in/anandasheva/)
+> Github [@AnandaSheva](https://github.com/AnandaSheva) &nbsp;&middot;&nbsp;
+> Instagram [@shevaananda_](https://instagram.com/shevaananda_) &nbsp;&middot;&nbsp;
+> Linkedin [@anandasheva](https://www.linkedin.com/in/anandasheva/)
