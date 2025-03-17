@@ -1,6 +1,6 @@
 ## 🎉 Birthday Greeting Webpage 
 
-[Demo](https://fajarghifar.github.io/happybirthday/)
+[Demo](https://happybirthday21st.netlify.app/)
 
 ## 🚀 How to Use
 
@@ -33,7 +33,6 @@ If you have any ideas to make it more interesting, please submit a pull request 
 
 ### [MIT](LICENSE)
 
-> Github [@fajarghifar](https://github.com/fajarghifar) &nbsp;&middot;&nbsp;
-> Youtube [@fajarghifar](https://www.youtube.com/@fajarghifar/) &nbsp;&middot;&nbsp;
-> Instagram [@fajarghifar](https://instagram.com/fajarghifar) &nbsp;&middot;&nbsp;
-> Linkedin [@fajarghifar](https://www.linkedin.com/in/fajarghifar/)
+> Github [@fajarghifar](https://github.com/AnandaSheva) &nbsp;&middot;&nbsp;
+> Instagram [@fajarghifar](https://instagram.com/shevaananda_) &nbsp;&middot;&nbsp;
+> Linkedin [@fajarghifar](https://www.linkedin.com/in/anandasheva/)
